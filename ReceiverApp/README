@@ -1,0 +1,1 @@
+this app will send the location updates periodically to firebase and in the sender app, this data will be received and displayed
