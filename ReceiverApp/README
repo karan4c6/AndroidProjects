@@ -1,1 +1,7 @@
-this app will send the location updates periodically to firebase and in the sender app, this data will be received and displayed
+Receiver App
+
+This app is the receiver android app. 
+
+This app will receive the location co-ordinate updates periodically from firebase. 
+The data is being sent from the Sender App. So, the sender app will fetch the location co-ordinates periodically 
+and send it to firebase. 
