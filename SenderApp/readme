@@ -1,0 +1,5 @@
+Sender App
+
+
+This app will fetch the location co-ordinates and send the data to firebase server. 
+This location data will be displayed in the Receiver App on a map.
